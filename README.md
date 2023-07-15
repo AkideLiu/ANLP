@@ -6,25 +6,25 @@
 
 **Grade : 96      Weight : 20%**
 
-**[[Code]](./assignment1/) [[report]](./report/report-assignment-1.pdf)** 
+**[[Code]](./assignment1/) [[report]](https://anlp.vmv.re/report/report-assignment-1.pdf)** 
 
 ## Assignment 2: Building a text matching algorithm for question retrieval
 
 **Grade : 94      Weight : 20%**
 
-**[[Code]](./assignment2/) [[report]](./report/report-assignment-2.pdf)** 
+**[[Code]](./assignment2/) [[report]](https://anlp.vmv.re/report/report-assignment-2.pdf)** 
 
 ## Assignment 3: Syntactic Parsing and Its Application
 
 **Grade : 94      Weight : 20%**
 
-**[[Code]](./assignment3/) [[report]](./report/report-assignment-3.pdf)** 
+**[[Code]](./assignment3/) [[report]](https://anlp.vmv.re/report/report-assignment-3.pdf)** 
 
 ## Final Project: Developing a question answering system for a research paper.
 
 **Grade : 95      Weight : 40%**
 
-**[[Code]](./final-project) [[report]](./report/report-final-project.pdf)**
+**[[Code]](./final-project) [[report]](https://anlp.vmv.re/report/report-final-project.pdf)**
 
 
 ## Licensed Under GPL-v3
