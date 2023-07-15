@@ -49,9 +49,10 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
 
 
+## DISCLAIMER
 
-## CAUTION :
+The author bears NO responsibility for the consequences arising from the use of this repository. This repository is offered as-is, without warranty of any kind, and any use of the code or resources herein is solely at the user's discretion and risk.
 
-## Author has NO responsibility for this repository
+Please note: Using this repository's contents for submission to any external or internal assessment systems without providing proper attribution or without significant modification or innovation may lead to violations of Academic Integrity Policies. Users are strongly advised to use this repository responsibly, and in compliance with all relevant academic guidelines and policies.
 
-## Any code/resources directly submit to either external or internal assessment systemes without innovation is at your own RISK and might lead to a breach [Academic Integrity Policy](https://www.adelaide.edu.au/policies/230/)
+[Academic Integrity Policy](https://www.adelaide.edu.au/policies/230/)
