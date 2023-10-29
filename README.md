@@ -24,7 +24,7 @@
 
 **Grade : 95      Weight : 40%**
 
-**[[CODE]](./final-project) [[REPORT]](https://anlp.vmv.re/report/report-final-project.pdf)**
+**[[CODE]](./final-project) [[REPORT]](https://anlp.vmv.re/report/report-final-project.pdf) [[Arxiv]](https://arxiv.org/abs/2307.12057)**
 
 
 ## Licensed Under GPL-v3
